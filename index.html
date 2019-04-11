@@ -20,5 +20,17 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <h1>Hihi</h1>
+    <script>
+    (function(){
+        var $h1 = document.querySelector('h1');
+        $h1.addEventListener('click', function() {
+            console.log('clicked');
+            dataLayer.push({
+                'pageType': 'index',
+                'isClicked': true
+            });
+        })
+    })();
+    </script>
 </body>
 </html>
