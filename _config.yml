@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Side Notes｜只是個筆記
+subtitle: Just notes on tech, work, and life.
+description: Notes on software engineering, web development, and everyday life — written as side notes, not conclusions.
+keywords: software engineering, web development, programming, notes, side notes, tech blog, personal blog, learning notes
+author: Yvonne
 language: en
 timezone: ''
 
