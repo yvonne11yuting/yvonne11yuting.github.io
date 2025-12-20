@@ -1,0 +1,37 @@
+# Butterfly Theme Configuration
+# 這個文件會覆蓋 themes/butterfly/_config.yml 的設定
+# 只需要寫你想要修改的部分
+
+# --------------------------------------
+# Image Settings
+# --------------------------------------
+
+avatar:
+  img: https://res.cloudinary.com/dtofr8b6k/image/upload/c_thumb,w_200,g_face/v1766210280/blog/IMG_5662_wkyqab.png
+  effect: false
+
+# If the banner of page not setting, it will show the default_top_img
+default_top_img: https://res.cloudinary.com/dtofr8b6k/image/upload/v1766209220/blog/cover_bgzbsn.webp
+
+# The background image of footer
+footer_img: true
+
+# --------------------------------------
+# Aside Settings
+# --------------------------------------
+
+aside:
+  card_author:
+    button:
+      link: https://github.com/yvonne11yuting
+
+# --------------------------------------
+# Global Settings
+# --------------------------------------
+
+# Busuanzi count for PV / UV in site
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
+
